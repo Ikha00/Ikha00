@@ -26,4 +26,4 @@ I am focusing on Git and GitHub. I am studying to improve my skills in using Git
 - Tools : Netbeans, JCreator
 
 ## Matlamat
-Saya ingin belajar lebih
+I want to learn more about using GitHub and become a skilled programmer. 
