@@ -13,3 +13,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+## Introduction
+
+I am focusing on Git and GitHub. I am studying to improve my skills in using GitHub and the terminal in Visual Studio Code.
+
+## Skills
+- HTML
+- CSS
+- Java
+- C++
+- Tools : Netbeans, JCreator
+
+## Matlamat
+Saya ingin belajar lebih
